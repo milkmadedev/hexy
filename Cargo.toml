@@ -1,0 +1,8 @@
+[package]
+name = "hexy"
+version = "0.1.0"
+edition = "2021"
+description = "Dependency-free hex dump CLI: one line per 16 bytes with an ASCII gutter"
+license = "MIT"
+
+[dependencies]
